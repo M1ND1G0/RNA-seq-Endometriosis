@@ -1,4 +1,4 @@
-# Differential Gene Expression in Ovarian Endometriomas
+# Differential Gene Expression Between Ectopic and Eutopic Endometrium Highlights Cancer-Linked Pathways in Endometriomas
 
 This repository contains an independent RNA-seq analysis comparing ectopic ovarian endometrioma tissue to paired eutopic endometrial samples, aiming to identify molecular signatures associated with early oncogenic risk.
 
